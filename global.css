@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-4xl: 23px;
+  --font-size-2xs-8: 10.8px;
+  --font-size-4xs-6: 8.6px;
+  --font-size-2xl-6: 21.6px;
+  --font-size-base-9: 15.9px;
+  --font-size-xl: 20px;
+  --font-size-16xl: 35px;
+  --font-size-smi-5: 12.5px;
+  --font-size-xs-7: 11.7px;
+  --font-size-mini-1: 14.1px;
+  --font-size-3xl: 22px;
+  --font-size-base-7: 15.7px;
+  --font-size-lg: 18px;
+  --font-size-smi: 13px;
+  --font-size-3xs: 10px;
+  --font-size-3xs-4: 9.4px;
+  --font-size-3xs-9: 9.9px;
+  --font-size-sm-2: 13.2px;
+  --font-size-lg-2: 18.2px;
+  --font-size-sm-9: 13.9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.4);
+  --color-gray-200: rgba(0, 0, 0, 0.8);
+  --color-gray-300: rgba(0, 0, 0, 0.7);
+  --color-gray-400: rgba(255, 255, 255, 0.1);
+  --color-gray-500: rgba(0, 0, 0, 0.5);
+  --color-teal-100: #00818a;
+  --color-teal-200: rgba(0, 129, 138, 0.5);
+  --color-mediumseagreen: #74cc7e;
+  --color-seagreen: rgba(22, 140, 90, 0.15);
+  --color-darkorange: rgba(240, 119, 15, 0.15);
+  --color-mediumpurple: rgba(114, 115, 204, 0.15);
+
+  /* Border radiuses */
+  --br-5xs-2: 7.2px;
+  --br-40xl-3: 59.3px;
+  --br-7xs: 6px;
+  --br-25xl-7: 44.7px;
+  --br-5xs-8: 7.8px;
+  --br-mini-5: 14.5px;
+  --br-6xs-3: 6.3px;
+  --br-3xs: 10px;
+}
